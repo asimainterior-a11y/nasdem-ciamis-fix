@@ -1,0 +1,54 @@
+{
+<<<<<<< HEAD
+  "name": "nasdem-ciamis",
+=======
+  "name": "nasdem-ciamis-new",
+>>>>>>> bf0156d (Initial commit from Create Next App)
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+<<<<<<< HEAD
+    "@gsap/react": "^2.1.2",
+    "@iconify/react": "^6.0.2",
+    "@sanity/client": "^7.22.0",
+    "@sanity/image-url": "^2.1.1",
+    "@sanity/vision": "^5.23.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.38.0",
+    "gsap": "^3.15.0",
+    "lucide-react": "^1.14.0",
+    "next": "16.2.4",
+    "next-sanity": "^12.4.0",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "sanity": "^5.23.0",
+    "styled-components": "^6.4.1",
+    "swiper": "^12.1.4",
+    "tailwind-merge": "^3.5.0"
+=======
+    "next": "16.2.6",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+>>>>>>> bf0156d (Initial commit from Create Next App)
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+<<<<<<< HEAD
+    "eslint-config-next": "16.2.4",
+=======
+    "eslint-config-next": "16.2.6",
+>>>>>>> bf0156d (Initial commit from Create Next App)
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
